@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1075945858056",
+    "project_id": "todo-app-1c3cc",
+    "storage_bucket": "todo-app-1c3cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075945858056:android:67c085aae2b3ae77469dbd",
+        "android_client_info": {
+          "package_name": "com.example.vtech_todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075945858056-u2k9i2km5v8h4rc0fhk3dn5mc44db4o8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8xNgf8uQwzTK-0QDhOPYb39DS_GKXy5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075945858056-u2k9i2km5v8h4rc0fhk3dn5mc44db4o8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1075945858056-jn9b61enqrevbt2j8u9d7n65ltkpves9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.vtechTodo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
